@@ -1,0 +1,1005 @@
+{
+    "hotelInfo": {
+            "marketing": {
+                    "marketingText": {
+                            "limitedTimeFeatures": {
+                                    "limitedTimeFeature": [
+                                            {
+                                                    "headLine": "AAA Member Rate",
+                                                    "status": "ACTIVE",
+                                                    "category": "Offer or Package",
+                                                    "offerOrPackageSubCategory": "Room Discount or Upgrade",
+                                                    "subHeader": "Up to 15% off",
+                                                    "shortDescription": "Enjoy exclusive member rates for AAA members. Book now and receive up to 15% off our Best Flexible Rate.",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2020-03-17",
+                                                            "endDate": "2020-05-31"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-16x9"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6137072588-16x5"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.grayhotelchicago.com/chicago-hotel-deals/aaa-hotels/"
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "4X Bonus Points",
+                                                    "status": "ACTIVE",
+                                                    "category": "Offer or Package",
+                                                    "offerOrPackageSubCategory": "Room Discount or Upgrade",
+                                                    "subHeader": "IHG Members",
+                                                    "shortDescription": "Book your stay and earn 4x IHG® Rewards Club points",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2020-03-17",
+                                                            "endDate": "2020-05-15"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-16x9"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-16x5"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033906748-3x2"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.grayhotelchicago.com/chicago-hotel-deals/"
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "Plans Change. We're Here For You.",
+                                                    "status": "ACTIVE",
+                                                    "category": "Offer or Package",
+                                                    "offerOrPackageSubCategory": "Room Discount or Upgrade",
+                                                    "subHeader": "Book Now, Pay Later.",
+                                                    "shortDescription": "Our flexible rate options give you the peace of mind to book with confidence. ",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2020-04-02",
+                                                            "endDate": "2020-06-30"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-16x9"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5061306272-16x5"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "bookNowCta": {
+                                                            "rateCode": "IDMEF",
+                                                            "minimumBookingWindow": 3,
+                                                            "eligibleStartAndEndDate": {
+                                                                    "startDate": "2020-04-02",
+                                                                    "endDate": "2020-12-30"
+                                                            }
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "Stay in the Moment",
+                                                    "status": "INVACTIVE",
+                                                    "subHeader": "Save 20%*",
+                                                    "shortDescription": "Save At least 20%*. IHG® Rewards Club members save even more with Your Rate. Stay from August 20, 2019 - March 31, 2020. Book By September 24, 2019 ",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2019-08-22",
+                                                            "endDate": "2019-09-24"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-16x9"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033897922-16x5"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.grayhotelchicago.com/chicago-hotel-deals/?cm_mmc=kh_ltf_staymoment"
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "Big Meetings, Tailor Made",
+                                                    "status": "INVACTIVE",
+                                                    "subHeader": "Up To 8% Off Master Bill",
+                                                    "shortDescription": "Book a group of 40+ room nights and receive up to 8% off the master bill. Or book 70+ rooms and get 8% off the master bill + 1 signature perk.",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2019-08-22",
+                                                            "endDate": "2019-08-31"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-16x5"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-16x9"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.grayhotelchicago.com/event-space-chicago/packages-and-promotions/?cm_mmc=kh-hotel-detail_ltf_tile-2_big-meetings"
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "Cyber Monday + Giving Tuesday",
+                                                    "status": "INVACTIVE",
+                                                    "subHeader": "You Save, We Give Back",
+                                                    "shortDescription": "Save up to 30% off our best flexible rate + we give $5/night to one of our charity partners, The Trevor Project + No Kid Hungry. Book by Dec. 6.",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2019-11-29",
+                                                            "endDate": "2019-12-06"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-16x5"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-16x9"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.ihg.com/kimptonhotels/hotels/us/en/find-hotels/hotel/rooms?qCiMy=102019&qCiD=22&qCoMy=102019&qCoD=23&qAdlt=1&qChld=0&qRms=1&qRtP=IDMEP.6CBARC&qSlH=ORDTG&qAkamaiCC=US&qSrt=sBR&qBrs=re.ic.in.vn.cp.vx.hi.ex.rs.cv.sb.cw.ma.ul.ki.va.ii.&qAAR=IDMEP&qWch=0&qSmP=1&cm_mmc=kh_ltf_cybersale&setPMCookies=true&qRad=30&qRdU=mi&srb_u=0"
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "Book Early + Save",
+                                                    "status": "INVACTIVE",
+                                                    "category": "Offer or Package",
+                                                    "subHeader": "Up To 20% Off",
+                                                    "shortDescription": "Get rewarded when you book at least 7 days in advance. Enjoy up to 20% off our Best Flexible Rate.",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2020-01-02",
+                                                            "endDate": "2020-03-30"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-16x5"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-16x9"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.grayhotelchicago.com/chicago-hotel-deals/?cm_mmc=kh-hotel-detail_ltf_tile-1_book-early"
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "City Lights",
+                                                    "status": "INVACTIVE",
+                                                    "category": "Offer or Package",
+                                                    "offerOrPackageSubCategory": "Room Discount or Upgrade",
+                                                    "subHeader": "Earn up to 15%* off",
+                                                    "shortDescription": "Book at least 3 days in advance and enjoy up to 15% off for a stay from now until April 30, 2020. Must book By February 29, 2020",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2020-02-01",
+                                                            "endDate": "2020-02-29"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-16x5"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-16x9"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033904692-1x1"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "bookNowCta": {
+                                                            "rateCode": "IDMEC",
+                                                            "eligibleStartAndEndDate": {
+                                                                    "startDate": "2020-02-01",
+                                                                    "endDate": "2020-04-30"
+                                                            }
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "Meet Kimpton, Get Rewarded",
+                                                    "status": "INVACTIVE",
+                                                    "category": "Offer or Package",
+                                                    "offerOrPackageSubCategory": "Room Discount or Upgrade",
+                                                    "subHeader": "Earn Points & Spaces",
+                                                    "shortDescription": "When you book a meeting, stay or event by February 1, 2020, You'll earn triple IHG Rewards Club Points.",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2020-02-01",
+                                                            "endDate": "2020-04-30"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-16x5"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "http://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909360-16x9"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.grayhotelchicago.com/event-space-chicago/packages-and-promotions/?cm_mmc=kh-hotel-detail_ltf_tile-2_meet-kimpton"
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "Weekends in Chicago",
+                                                    "status": "INVACTIVE",
+                                                    "category": "Offer or Package",
+                                                    "offerOrPackageSubCategory": "Room Discount or Upgrade",
+                                                    "subHeader": "Up to 30% off",
+                                                    "shortDescription": "For a limited time, get 30% off ANY weekend stay. Book 3 days in advance. Friday - Sunday stays (some Thursdays included). 1 night deposit required.",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2020-02-20",
+                                                            "endDate": "2020-03-31"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-16x5"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-16x9"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-6352168638-55x31"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.grayhotelchicago.com/event-space-chicago/packages-and-promotions/?cm_mmc=kh-hotel-detail_ltf_tile-2_weekend-promo"
+                                                    }
+                                            },
+                                            {
+                                                    "headLine": "Stay + Valet",
+                                                    "status": "INVACTIVE",
+                                                    "category": "Offer or Package",
+                                                    "offerOrPackageSubCategory": "Parking and Transportation",
+                                                    "subHeader": "Enjoy Discounted Parking",
+                                                    "shortDescription": "Toss us the keys and be on your way. Book this package and receive discounted valet parking (reg. $72/night) included with your stay.",
+                                                    "startDateEndDate": {
+                                                            "startDate": "2020-03-17",
+                                                            "endDate": "2020-05-31"
+                                                    },
+                                                    "thumnailImages": {
+                                                            "originalUrl": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-original",
+                                                            "formats": [
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "171",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-220x171"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "17",
+                                                                            "aspectHeight": "13",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-17x13"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "4",
+                                                                            "aspectHeight": "3",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-4x3"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "53",
+                                                                            "aspectHeight": "29",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-53x29"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "34",
+                                                                            "aspectHeight": "15",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-34x15"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "55",
+                                                                            "aspectHeight": "31",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-55x31"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "880",
+                                                                            "aspectHeight": "587",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-880x587"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "220",
+                                                                            "aspectHeight": "49",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-220x49"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "1",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-1x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "5",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-16x5"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "3",
+                                                                            "aspectHeight": "2",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-3x2"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "2",
+                                                                            "aspectHeight": "1",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-2x1"
+                                                                    },
+                                                                    {
+                                                                            "aspectWidth": "16",
+                                                                            "aspectHeight": "9",
+                                                                            "url": "https://ihg.scene7.com/is/image/ihg/kimpton-chicago-5033909273-16x9"
+                                                                    }
+                                                            ]
+                                                    },
+                                                    "ctaExistingLandingPage": {
+                                                            "ctaLandingPageUrl": "https://www.grayhotelchicago.com/chicago-hotel-deals/?cm_mmc=kh-hotel-detail_ltf_tile-3_parking"
+                                                    }
+                                            }
+                                    ]
+                            },
+                            "marketingCityName": "Chicago",
+                            "hotelStayPreferenceParticipation": true,
+                            "accommodationsUrl": "https://www.grayhotelchicago.com/chicago-loop-hotels/?utm_source=kh.com&utm_medium=referral&utm_campaign=hotel-links",
+                            "aemCityName": "chicago",
+                            "corporateManaged": {
+                                    "ihgConnectLandingPageMarketingDescription": "Read the latest on our current Travel Advisory Policy to stay informed. ",
+                                    "ihgConnectLandingPageMarketingTitle": "An important update on COVID-19",
+                                    "ihgConnectLandingPageLinkText": "LEARN MORE",
+                                    "ihgConnectLandingPageLinkUrl": "https://www.ihg.com/content/us/en/customer-care/travel-advisory"
+                            },
+                            "croAlertDates": {
+                                    "startDate": "2020-03-12",
+                                    "endDate": "2020-04-30"
+                            },
+                            "croAlertDescription": "Our restaurant and bar are currently closed.",
+                            "hashtagTitle": "#thegraychi",
+                            "hotelTileAmenities": "Onsite Fitness Center, Rooftop Lounge, City Views",
+                            "hotelTileAlwaysComplimentary": "Loaner PUBLIC Bikes, Morning Coffee + Tea Service, Pet Amenities",
+                            "hotelMajorFeature": "Like a perfectly-fitted, bespoke suit from Savile Row, every detail of The Kimpton Gray Hotel has been thoughtfully considered. Situated in the financial loop in the historical New York Life Insurance Building originally built in 1894. Kimpton Gray takes its name from the Georgia Gray marble that’s lent the structure a sense of sophistication for well over a century.",
+                            "hotelShortDescription": "No detail goes unnoticed at Kimpton Gray Hotel, an opulent cultural oasis in downtown Chicago.",
+                            "hotelTagLine": "Chicago Loop Sophistication",
+                            "instagramLink": "https://www.instagram.com/thegraychi/",
+                            "kimptonGetaway": false,
+                            "seo": {
+                                    "seoCityName": "gray-hotel-chicago-il"
+                            },
+                            "socialMediaImageFeed": "ORDTG",
+                            "welcomeMessage": "Think of Kimpton Gray Hotel like a perfectly bespoke suit from London’s Savile Row — beautiful, bold, and with no detail out of place. Clad in marble The Gray has been a tastemaker for more than a century, first as an office building and now as an elevated-experience hotel. When the 9-to-5 day is done in the Financial District, those in the know flock to the on-site lounges and restaurants - Vol. 39, a law library-themed bar, Boleo, an Argentinean-inspired lounge with retractable glass roof, and Steadfast, a chef-driven new American restaurant. Consider us for business travel or a weekend getaway. Blocks away from Millennium Park, restaurants and museums.",
+                            "specialAnnouncementDetails": [
+                                    {
+                                            "description": "Book with confidence. Our flexible rate options are here for when plans change.",
+                                            "announcementDates": {
+                                                    "startDate": "2020-03-12",
+                                                    "endDate": "2020-04-30"
+                                            }
+                                    }
+                            ]
+                    },
+                    "concierge": {
+                            "conciergeOnProperty": true
+                    },
+                    "optInDateB2B": "2018-01-16",
+                    "optOutDateB2B": "2017-06-02",
+                    "optInDateWeb": "2018-03-14",
+                    "optOutDateWeb": "2018-01-16",
+                    "facilityNumber": 18512,
+                    "managementType": 4,
+                    "marketingTier": "UU",
+                    "eventsAndConcierge": {
+                            "concierge": {
+                                    "conciergeOnProperty": true,
+                                    "conciergeEmailAddress": "Concierge@grayhotelchicago.com"
+                            },
+                            "icConcierge": {
+                                    "prestayEmailWelcomeMessage": "We're as excited about your arrival in Chicago as you are! All the details you need are below, but just email, call, or text if you have any special requests. Don't forget to join us for our hosted wine hour from 5-6pm in the living room. "
+                            }
+                    }
+            }
+    }
+}

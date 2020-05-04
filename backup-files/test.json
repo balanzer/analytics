@@ -1,0 +1,207 @@
+[
+    {
+        "hotel_code": "LONVE",
+        "room_type": "TTWN",
+        "currency_code": "GBP",
+        "price_nightly": "171.00",
+        "room_tab": "Pay Later",
+        "rate_list": [
+            {
+                "hotel_code": "LONVE",
+                "room_code": "TTWN",
+                "rate_type": "IDMEF",
+                "currency_code": "GBP",
+                "price_nightly": "259.92",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "TTWN",
+                "rate_type": "IDAFS",
+                "currency_code": "GBP",
+                "price_nightly": "270.75",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "TTWN",
+                "rate_type": "IDME0",
+                "currency_code": "GBP",
+                "price_nightly": "273.60",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "TTWN",
+                "rate_type": "IGCOR",
+                "currency_code": "GBP",
+                "price_nightly": "285.00",
+                "rate_tab": "Pay Later"
+            }
+        ]
+    },
+    {
+        "hotel_code": "LONVE",
+        "room_type": "OSBN",
+        "currency_code": "GBP",
+        "price_nightly": "171.00",
+        "room_tab": "Pay Later",
+        "rate_list": [
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSBN",
+                "rate_type": "IDMEF",
+                "currency_code": "GBP",
+                "price_nightly": "259.92",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSBN",
+                "rate_type": "IDAFS",
+                "currency_code": "GBP",
+                "price_nightly": "270.75",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSBN",
+                "rate_type": "IDME0",
+                "currency_code": "GBP",
+                "price_nightly": "273.60",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSBN",
+                "rate_type": "IGCOR",
+                "currency_code": "GBP",
+                "price_nightly": "285.00",
+                "rate_tab": "Pay Later"
+            }
+        ]
+    },
+    {
+        "hotel_code": "LONVE",
+        "room_type": "OSIN",
+        "currency_code": "GBP",
+        "price_nightly": "171.00",
+        "room_tab": "Pay Later",
+        "rate_list": [
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSIN",
+                "rate_type": "IDMEF",
+                "currency_code": "GBP",
+                "price_nightly": "259.92",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSIN",
+                "rate_type": "IDAFS",
+                "currency_code": "GBP",
+                "price_nightly": "270.75",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSIN",
+                "rate_type": "IDME0",
+                "currency_code": "GBP",
+                "price_nightly": "273.60",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSIN",
+                "rate_type": "IGCOR",
+                "currency_code": "GBP",
+                "price_nightly": "285.00",
+                "rate_tab": "Pay Later"
+            }
+        ]
+    },
+    {
+        "hotel_code": "LONVE",
+        "room_type": "OSNN",
+        "currency_code": "GBP",
+        "price_nightly": "171.00",
+        "room_tab": "Pay Later",
+        "rate_list": [
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSNN",
+                "rate_type": "IDMEF",
+                "currency_code": "GBP",
+                "price_nightly": "259.92",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSNN",
+                "rate_type": "IDAFS",
+                "currency_code": "GBP",
+                "price_nightly": "270.75",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSNN",
+                "rate_type": "IDME0",
+                "currency_code": "GBP",
+                "price_nightly": "273.60",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "OSNN",
+                "rate_type": "IGCOR",
+                "currency_code": "GBP",
+                "price_nightly": "285.00",
+                "rate_tab": "Pay Later"
+            }
+        ]
+    },
+    {
+        "hotel_code": "LONVE",
+        "room_type": "CSTN",
+        "currency_code": "GBP",
+        "price_nightly": "171.00",
+        "room_tab": "Pay Later",
+        "rate_list": [
+            {
+                "hotel_code": "LONVE",
+                "room_code": "CSTN",
+                "rate_type": "IDMEF",
+                "currency_code": "GBP",
+                "price_nightly": "259.92",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "CSTN",
+                "rate_type": "IDAFS",
+                "currency_code": "GBP",
+                "price_nightly": "270.75",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "CSTN",
+                "rate_type": "IDME0",
+                "currency_code": "GBP",
+                "price_nightly": "273.60",
+                "rate_tab": "Pay Later"
+            },
+            {
+                "hotel_code": "LONVE",
+                "room_code": "CSTN",
+                "rate_type": "IGCOR",
+                "currency_code": "GBP",
+                "price_nightly": "285.00",
+                "rate_tab": "Pay Later"
+            }
+        ]
+    }
+]

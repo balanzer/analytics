@@ -1,0 +1,14 @@
+Special Announcement
+
+https://apis.ihg.com/hotels/v1/profiles/BCNKI/details?fieldset=marketing
+
+
+https://www.ihg.com/kimptonhotels/hotels/us/en/vividora-hotel-barcelona-spain/bcnki/hoteldetail?fromRedirect=true&qSrt=sBR&qDest=Barcelona,%20Spain&qRms=01&qAdlt=01&qChld=00&qCiD=12&qCiMy=022020&qCoD=13&qCoMy=022020&qAAR=6CBARC&qRtP=6CBARC&setPMCookies=true&srb_u=1
+
+https://www.ihg.com/kimptonhotels/hotels/us/en/vividora-hotel-barcelona-spain/bcnki/hoteldetail?fromRedirect=true&qSrt=sBR&qDest=Barcelona,%20Spain&qRms=01&qAdlt=01&qChld=00&qCiD=12&qCiMy=022020&qCoD=20&qCoMy=022020&qAAR=6CBARC&qRtP=6CBARC&setPMCookies=true&srb_u=1
+
+
+https://www.ihg.com/kimptonhotels/hotels/us/en/da-an-hotel-taipei/tpekm/hoteldetail?qDest=Taipei,%20Taiwan&qCiD=24&qCoD=25&qCiMy=32020&qCoMy=32020&qAdlt=1&qChld=0&qRms=1&qCpid=786879740&qWch=0&qSmP=1&qIta=99504425&setPMCookies=true&qRtP=6CBARC&qSlH=TPEKM&qAkamaiCC=US&srb_u=0&qRad=30&qRdU=mi&presentationViewType=select&qSrt=sAV&qBrs=re.ic.in.vn.cp.vx.hi.ex.rs.cv.sb.cw.ma.ul.ki.va.ii.sp.nd.ct
+
+
+https://www.ihg.com/kimptonhotels/hotels/us/en/amsterdam/amsnl/hoteldetail?qDest=Taipei,%20Taiwan&qCiD=24&qCoD=25&qCiMy=32020&qCoMy=32020&qAdlt=1&qChld=0&qRms=1&qCpid=786879740&qWch=0&qSmP=1&qIta=99504425&setPMCookies=true&qRtP=6CBARC&qSlH=TPEKM&qAkamaiCC=US&srb_u=0&qRad=30&qRdU=mi&presentationViewType=select&qSrt=sAV&qBrs=re.ic.in.vn.cp.vx.hi.ex.rs.cv.sb.cw.ma.ul.ki.va.ii.sp.nd.ct

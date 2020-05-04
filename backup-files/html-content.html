@@ -1,0 +1,101 @@
+<html>
+
+<head>
+
+    <style>
+        div.logo-image {
+
+            background: transparent url(https://ihg.scene7.com/is/image/ihg/uhf_ihg_logo@2x-1?fmt=png-alpha) no-repeat left center;
+
+            background-size: 90px 36px;
+
+            height: 90px;
+
+        }
+
+        div.attention {
+
+            color: #d96932;
+
+            font-weight: bold;
+
+            font-size: 20px;
+
+        }
+
+        body {
+
+            color: gray;
+
+            padding: 20px;
+
+            font-family: "Graphik", Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+            font-size: 18px;
+
+        }
+
+        p.reason {
+
+            font-weight: bold;
+
+        }
+
+        li a {
+
+            color: #d96932;
+
+        }
+
+        li {
+
+            margin: 10px 0;
+
+        }
+
+        .featherlight .featherlight-close-icon {
+
+            font-size: 30px;
+
+            line-height: 40px;
+
+            width: 50px;
+
+            padding: 5px 10px;
+
+        }
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+
+    <div class="modal-container">
+
+        <div class="logo-image"></div>
+
+    </div>
+
+    <script>
+
+        var attentionText = "Attention!", reasonText = "Due to the volume of calls to our Global Reservation & Customer Care teams we are unfortunately experiencing extended hold times.", requestText = "To help support all our guests in a timely manner we ask that you:", listitem1 = "Modify or cancel your reservation online at <a href='/hotels/us/en/stay-mgmt/ManageYourStay'>Manage Your Stay</a> or on the IHG app", listitem2 = "Call the team only if your travel is <b>within the next 72 hours</b> and you are not able to modify or cancel your reservation online or via the IHG app", listitem3 = "Please use this <a href=''>comment form</a> if your request is not urgent or to report an issue and our Reservations & Customer Care team will respond in due course";
+
+        $("body").append('<div class="attention">' + attentionText + '</div>');
+
+        $("body").append('<p class="reason">' + reasonText + '</p>');
+
+        $("body").append('<p>' + requestText + '</p>');
+
+        $("body").append('<li>' + listitem1 + '</li>');
+
+        $("body").append('<li>' + listitem2 + '</li>');
+
+        $("body").append('<li>' + listitem3 + '</li>');
+
+    </script>
+
+</body>
+
+</html>
